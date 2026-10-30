@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbharatchandra" alt="pbharatchandra" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Python(Programming), Socket.io & Node.js**
+- 🌱 currently learning **Advance Python(Programming), Django, React**
 
-- 👨‍💻 All of my projects are available at [https://pbharatchandra.netlify.app/](https://pbharatchandra.netlify.app/)
+- 👨‍💻 All of the projects are available at [https://pbharatchandra.netlify.app/](https://pbharatchandra.netlify.app/)
 
-- 💬 Ask me about **AI/Ml, MERN Stack, JAVA, JavaScript**
+- 📫 How to reach **pbharatchandraofficial@gmail.com**
 
-- 📫 How to reach me **pbharatchandraofficial@gmail.com**
-
-- 📄 Know about my experiences(Portfolio Website) [https://pbharatchandra.netlify.app/](https://pbharatchandra.netlify.app/)
+- 📄 Portfolio Website [https://pbharatchandra.netlify.app/](https://pbharatchandra.netlify.app/)
 
 - ⚡ Fun fact **Could Talk For Hours If The Topic Is About Tech/Sc-fi**
 
